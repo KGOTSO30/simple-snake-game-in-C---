@@ -1,0 +1,10 @@
+Here im creating a simple snake game using c plus plus, It does not contain any classes i.e not object orientated.
+This is just to have fun, i believe its the best way to introduce programming.
+
+This game is played in the console, i recommend windows powershell.
+
+Imcludes four self-explanatory Methods:
+ Setup - 
+ Draw - 
+ Input - 
+ Logic -
